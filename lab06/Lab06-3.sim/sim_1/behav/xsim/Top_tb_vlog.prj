@@ -1,0 +1,27 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/ALU.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/ALUctr.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Ctr.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/new/DataHazard.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/new/EXMEM.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/new/IDEX.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/new/IFID.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/InstMemory.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/new/InterLock.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/new/MEMWB.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/MUX.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/PC.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Registers.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Shiftleft.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Top.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/adder.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/dataMemory.v" \
+"../../../../Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/signext.v" \
+"../../../../Lab06-3.srcs/sim_1/imports/new/Top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

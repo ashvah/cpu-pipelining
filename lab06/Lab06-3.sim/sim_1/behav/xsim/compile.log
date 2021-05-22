@@ -1,0 +1,51 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/ALUctr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALUctr
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'ALUCtrOut' is not allowed [C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/ALUctr.v:31]
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'jr' is not allowed [C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/ALUctr.v:32]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Ctr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ctr
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'regDst' is not allowed [C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Ctr.v:43]
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'ALUsrc' is not allowed [C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Ctr.v:44]
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'memToReg' is not allowed [C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Ctr.v:45]
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'regWrite' is not allowed [C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Ctr.v:46]
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'memRead' is not allowed [C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Ctr.v:47]
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'memWrite' is not allowed [C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Ctr.v:48]
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'branch' is not allowed [C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Ctr.v:49]
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'aluOp' is not allowed [C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Ctr.v:50]
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'jump' is not allowed [C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Ctr.v:51]
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'jal' is not allowed [C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Ctr.v:52]
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'opExt' is not allowed [C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Ctr.v:53]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/new/DataHazard.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataHazard
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/new/EXMEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXMEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/new/IDEX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IDEX
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/new/IFID.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IFID
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/InstMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/new/InterLock.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InterLock
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/new/MEMWB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MEMWB
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/MUX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Registers.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Registers
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Shiftleft.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Shiftleft
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/dataMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/signext.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module signext
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Archlabs/Lab06-3/Lab06-3.srcs/sim_1/imports/new/Top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top_tb
