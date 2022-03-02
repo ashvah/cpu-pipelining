@@ -1,6 +1,5 @@
-# 计算机体系结构实验
-在vivado上实现了MIPS流水线CPU
-
+### 计算机体系结构实验
+在vivado上实现了MIPS流水线CPU, 内容包括    
 * lab01: LED Flow Water Light
 * lab02: 4-bit Adder
 * lab03: MIPS ALU
